@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yura.
-- 👀 I’m interested in C ++ programming language.
+- 👀 I am currently learning the C# programming language.
 - 🌱 I’m currently learning on my own.
 - 💞️ I’m looking to collaborate on with people who can teach or prompt.
 - 📫 My telegram @Yury_Moi
